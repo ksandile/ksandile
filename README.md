@@ -1,5 +1,5 @@
 
-![Design and Developer](https://media.licdn.com/dms/image/D4E16AQH-8Sx7cgfbEA/profile-displaybackgroundimage-shrink_350_1400/0/1713180992761?e=1720051200&v=beta&t=GGXUmrpxMNQdZei6CtFIXjW-03r0v9mkPz7r_UGJYT8)
+![Design and Developer](https://github.com/ksandile/ksandile/blob/main/Screenshot%202024-05-03%20115355.png?raw=true)
 
 Welcome to my corner of the internet! I'm Sandile Kitayi, a passionate software developer, and I'm thrilled to have you here. In this digital space, I showcase my journey, experiences, and creations in the world of software development. Whether you're a fellow developer, a potential client, or simply someone curious about the tech world, I hope you find something inspiring and valuable here. Feel free to explore my projects, read about my skills and expertise, or reach out to discuss collaboration opportunities. I'm always eager to connect with like-minded individuals and organizations who share my enthusiasm for innovation and problem-solving. Thank you for visiting, and I hope you enjoy your time here!
 
