@@ -7,7 +7,7 @@ Skills🧰
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
 
 ---
-<a href="http://127.0.0.1:5500/index.html"</a>
+(http://127.0.0.1:5500/index.html)
 
 <!--
 **ksandile/ksandile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
