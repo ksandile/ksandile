@@ -4,10 +4,7 @@ Hello and welcome to my corner of the internet! I'm Sandile Kitayi, a passionate
 ---
 Skills🧰
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
-
----
-(http://127.0.0.1:5500/index.html)
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" /><img scr="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50" />
 
 <!--
 **ksandile/ksandile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
