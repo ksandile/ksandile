@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Sandile Kitayi!
 ---
 Hello and welcome to my corner of the internet! I'm Sandile Kitayi, a passionate software developer, and I'm thrilled to have you here. In this digital space, I showcase my journey, experiences, and creations in the world of software development. Whether you're a fellow developer, a potential client, or simply someone curious about the tech world, I hope you find something inspiring and valuable here. Feel free to explore my projects, read about my skills and expertise, or reach out to discuss collaboration opportunities. I'm always eager to connect with like-minded individuals and organizations who share my enthusiasm for innovation and problem-solving. Thank you for visiting, and I hope you enjoy your time here!
+---
+Skills🧰
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
 
 <!--
 **ksandile/ksandile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
