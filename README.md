@@ -3,6 +3,11 @@
 ![Design and Developer](https://media.licdn.com/dms/image/D4E16AQH-8Sx7cgfbEA/profile-displaybackgroundimage-shrink_350_1400/0/1713180992761?e=1720051200&v=beta&t=GGXUmrpxMNQdZei6CtFIXjW-03r0v9mkPz7r_UGJYT8)
 
 Welcome to my corner of the internet! I'm Sandile Kitayi, a passionate software developer, and I'm thrilled to have you here. In this digital space, I showcase my journey, experiences, and creations in the world of software development. Whether you're a fellow developer, a potential client, or simply someone curious about the tech world, I hope you find something inspiring and valuable here. Feel free to explore my projects, read about my skills and expertise, or reach out to discuss collaboration opportunities. I'm always eager to connect with like-minded individuals and organizations who share my enthusiasm for innovation and problem-solving. Thank you for visiting, and I hope you enjoy your time here!
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ksandile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sandile Kitayi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Sandile Kitayi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Sandile Kitayi)  
+
+
 ---
 <img scr="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
 
