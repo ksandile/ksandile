@@ -7,6 +7,7 @@
 
 ---
 Skill's🧰
+-
 <img scr="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
 
 ---
