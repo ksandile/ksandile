@@ -6,6 +6,9 @@ Skills🧰
 
 <img scr="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50" />
 
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ksandile)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ksandile/ksandile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
